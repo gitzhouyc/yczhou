@@ -1,0 +1,36 @@
+PODS:
+  - Alamofire (4.7.2)
+  - FDFullscreenPopGesture (1.1)
+  - MJRefresh (3.1.15.3)
+  - SGPagingView (1.4.2)
+  - SVProgressHUD (2.2.5)
+  - SwiftyJSON (4.1.0)
+
+DEPENDENCIES:
+  - Alamofire
+  - FDFullscreenPopGesture
+  - MJRefresh
+  - SGPagingView (~> 1.4.2)
+  - SVProgressHUD
+  - SwiftyJSON
+
+SPEC REPOS:
+  https://github.com/cocoapods/specs.git:
+    - Alamofire
+    - FDFullscreenPopGesture
+    - MJRefresh
+    - SGPagingView
+    - SVProgressHUD
+    - SwiftyJSON
+
+SPEC CHECKSUMS:
+  Alamofire: e4fa87002c137ba2d8d634d2c51fabcda0d5c223
+  FDFullscreenPopGesture: a8a620179e3d9c40e8e00256dcee1c1a27c6d0f0
+  MJRefresh: b48380ae2b927b46c4ef000de9adb8dc748e1df7
+  SGPagingView: 5b6deb8fc907b7d5bdad2dbcf16a373c01400ff4
+  SVProgressHUD: 1428aafac632c1f86f62aa4243ec12008d7a51d6
+  SwiftyJSON: c29297daf073d2aa016295d5809cdd68045c39b3
+
+PODFILE CHECKSUM: ae202cf46d0703a73dd466ed7f6f3b84154f8e07
+
+COCOAPODS: 1.5.2
